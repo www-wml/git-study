@@ -1,0 +1,57 @@
+{
+  "uid" : "b8e6237259dba0ba",
+  "name" : "test_add[100-200-300]",
+  "fullName" : "Test_Demo7#test_add",
+  "historyId" : "b22dd59e28923242568f1004a1d99b42",
+  "time" : {
+    "start" : 1618653267159,
+    "stop" : 1618653267159,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test_Demo7"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-ATJKQH43"
+  }, {
+    "name" : "thread",
+    "value" : "19672-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Demo7"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "100"
+  }, {
+    "name" : "b",
+    "value" : "200"
+  }, {
+    "name" : "expected",
+    "value" : "300"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8e6237259dba0ba.json",
+  "parameterValues" : [ "100", "200", "300" ]
+}

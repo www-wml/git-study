@@ -1,0 +1,57 @@
+{
+  "uid" : "2f9a44ab29fd7072",
+  "name" : "test_add[int]",
+  "fullName" : "Test_Demo8#test_add",
+  "historyId" : "14a74df627fe36d51f56a20e76b0b1dc",
+  "time" : {
+    "start" : 1618653267164,
+    "stop" : 1618653267165,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test_Demo8"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-ATJKQH43"
+  }, {
+    "name" : "thread",
+    "value" : "19672-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Demo8"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "3"
+  }, {
+    "name" : "b",
+    "value" : "5"
+  }, {
+    "name" : "expected",
+    "value" : "8"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f9a44ab29fd7072.json",
+  "parameterValues" : [ "3", "5", "8" ]
+}

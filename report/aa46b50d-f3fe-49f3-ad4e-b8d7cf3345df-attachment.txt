@@ -1,0 +1,5 @@
+
+setup_function：每个不在类中的⽤例开始前都会执⾏
+正在执⾏测试模块----test_two
+
+teardown_function：每个不在类中的⽤例结束后都会执⾏

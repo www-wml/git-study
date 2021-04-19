@@ -1,0 +1,14 @@
+
+setup_method: 每个⽤例开始前执⾏
+
+setup：每个⽤例开始前都会执⾏
+
+正在执⾏测试类----test_four
+
+teardown：每个⽤例结束后都会执⾏
+
+teardown_method: 每个⽤例结束后执⾏
+
+teardown_class：所有⽤例执⾏之后
+
+teardown_module：整个test_module.py模块只执⾏⼀次

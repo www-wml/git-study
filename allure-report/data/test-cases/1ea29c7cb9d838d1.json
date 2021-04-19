@@ -1,0 +1,57 @@
+{
+  "uid" : "1ea29c7cb9d838d1",
+  "name" : "test_add[100-200-300]",
+  "fullName" : "Test_Demo2#test_add",
+  "historyId" : "63db2c1c7c2f8c22e4fa444bbc549f4e",
+  "time" : {
+    "start" : 1618653267055,
+    "stop" : 1618653267055,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test_Demo2"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-ATJKQH43"
+  }, {
+    "name" : "thread",
+    "value" : "19672-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Demo2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "100"
+  }, {
+    "name" : "b",
+    "value" : "200"
+  }, {
+    "name" : "expected",
+    "value" : "300"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ea29c7cb9d838d1.json",
+  "parameterValues" : [ "100", "200", "300" ]
+}

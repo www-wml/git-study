@@ -1,0 +1,7 @@
+
+setup_module：整个test_module.py模块只执⾏⼀次
+
+setup_function：每个不在类中的⽤例开始前都会执⾏
+正在执⾏测试模块----test_one
+
+teardown_function：每个不在类中的⽤例结束后都会执⾏
